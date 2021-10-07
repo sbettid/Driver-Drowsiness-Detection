@@ -1,6 +1,5 @@
-Davide Cremonini 14412 - Davide Sbetti 14032
----
-# Drivers Drowsiness Detection - ATML Project README
+
+# Drivers Drowsiness Detection - Advanced Machine Learning
 
 In this repository, you can find the following notebooks that have been used during the development of the project: 
 
